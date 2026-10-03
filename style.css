@@ -58,3 +58,21 @@ h3 {
 a {
     color: #1f5a86;
 }
+
+.talk {
+    margin-bottom: 28px;
+}
+
+.talk-date {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 5px;
+}
+
+.talk-conference {
+    font-size: 22px;
+    line-height: 1.4;
+}
